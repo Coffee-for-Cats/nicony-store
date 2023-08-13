@@ -1,5 +1,5 @@
 window.onload = async function() {
-    window.setTimeout(loadMap ,10)
+    window.setTimeout(loadMap, 10)
 }
 
 function loadMap() {
