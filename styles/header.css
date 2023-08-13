@@ -10,7 +10,7 @@ header {
     flex: 1 0 0;
     align-items: center;
     justify-content: center;
-    font-family: 'Great Vibes';
+    font-family: 'Great Vibes', cursive;
 }
 
 #nav-bar {
