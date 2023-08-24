@@ -1,0 +1,40 @@
+#others {
+    background-color: #fff4f4;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card {
+    font-size: large;
+    margin: 2rem;
+    padding: 1.2rem;
+    height: min-content;
+    border: 2px solid #302f2d;
+    border-radius: 1.2rem;
+
+    width: 20rem;
+    cursor: pointer;
+
+    box-shadow: 0 1rem 3.2rem 0 rgba(45, 19, 18, .2);
+}
+
+.card > button {
+    font-weight: 600;
+    font-size: large;
+    background: none;
+    border: 2px solid #302f2d;
+    border-radius: .2rem;
+    padding: .4rem;
+    margin: .6rem 0;
+    cursor: pointer;
+}
+
+.card>button:hover {
+    transition: .2s;
+    background-color: #302f2d;
+    color: #fff4f4;
+}
