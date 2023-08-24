@@ -1,16 +1,14 @@
 #address {
     padding: 10%;
-    min-height: 30rem;
 }
 
 #local-wrapper {
-    height: 60vw;
     width: 100%;
     max-width: 40rem;
 }
 
 #map-container {
-    height: 80%;
+    aspect-ratio: 3/2;
 }
 
 address {
